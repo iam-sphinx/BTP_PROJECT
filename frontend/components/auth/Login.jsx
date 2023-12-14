@@ -89,7 +89,7 @@ const Login = () => {
         </button>
       </form>
       <h1 className="font-normal font-poppins text-[#373636] tracking-wider">
-        Didn't have an account?
+        Didn&apos;t have an account?
         <span
           className="cursor-pointer hover:text-blue-500 font-medium tracking-lighter ml-3"
           onClick={handleSignup}
